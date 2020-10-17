@@ -1,0 +1,17 @@
+.homeImage {
+  width: 1440px;
+  height: 1080px;
+}
+
+h1 {
+  position: absolute;
+  top: 30px;
+  color: white;
+  left: 600px;
+}
+
+p {
+  position: absolute;
+  top: 900px;
+  left: 550px;
+}
